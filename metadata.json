@@ -1,0 +1,6 @@
+{
+  "name": "AI Field Service Assistant Hub",
+  "description": "An enterprise-grade AI Field Service Assistant Platform providing smart dispatching, technician copiloting, IoT predictive maintenance, asset twins, and interactive operational logs.",
+  "requestFramePermissions": ["camera", "geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
